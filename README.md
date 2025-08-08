@@ -2,7 +2,6 @@
 Comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs 
 
 KPI’s Requirements
-<img width="541" height="105" alt="image" src="https://github.com/user-attachments/assets/cc1515c5-3b1f-4a74-a005-a1c16d0cd66e" />
 
 1.Total Sales: The overall revenue generated from all items sold.
 2.Average Sales: The average revenue per sale.
@@ -10,7 +9,6 @@ KPI’s Requirements
 4.Average Rating: The average customer rating for items sold. 
 
 Granular Requirements
-<img width="629" height="105" alt="image" src="https://github.com/user-attachments/assets/e6291595-86b2-448a-aa91-3b9ed5708167" />
 
 1. Total Sales by Fat Content:
 	Objective: Analyze the impact of fat content on total sales.
