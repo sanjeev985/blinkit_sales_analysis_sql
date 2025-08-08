@@ -27,7 +27,6 @@ Granular Requirements
 	Objective: Assess the geographic distribution of sales across different locations.
 7. All Metrics by Outlet Type:
 	Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of 	Items, Average Rating) broken down by different outlet types.
-<img width="2802" height="328" alt="image" src="https://github.com/user-attachments/assets/45febb37-0eb5-4581-bf56-9f202ed6d11c" />
 
 
 
